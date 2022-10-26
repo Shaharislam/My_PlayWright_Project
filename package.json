@@ -1,0 +1,26 @@
+{
+  "name": "my_playwright_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaharislam/My_PlayWright_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaharislam/My_PlayWright_Project/issues"
+  },
+  "homepage": "https://github.com/Shaharislam/My_PlayWright_Project#readme",
+  "dependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
